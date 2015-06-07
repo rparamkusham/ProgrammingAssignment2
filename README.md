@@ -2,7 +2,7 @@
 # The following are the runtime computation commands
 # to test the caching of the metrix inversion
 
-> source("RP_Programming_Assignment_2.R")
+> source("cachematrix.R")
 > 
 > x = rbind(c(1, -2), c(-2, 1))
 > 
